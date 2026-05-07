@@ -22,6 +22,7 @@ The project requires two CSV files:
 
 
 class
+
 ├── main.py                                   
 ├── cleaned_x_data_XRDa_featuresNoise.csv     
 ├── y_data_kind.csv                          
