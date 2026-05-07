@@ -23,16 +23,15 @@ The project requires two CSV files:
 
 class/
 
-│
-├── main.py                          # Main execution script
+├── main.py                                   # Main execution script
 
-├── cleaned_x_data_XRDa_featuresNoise.csv  # Feature dataset
+├── cleaned_x_data_XRDa_featuresNoise.csv     # Feature dataset
 
-├── y_data_kind.csv                  # Target labels
+├── y_data_kind.csv                           # Target labels
 
-├── requirements.txt                 # Python dependencies
+├── requirements.txt                          # Python dependencies
 
-└── README.md                        # Project documentation
+└── README.md                                  # Project documentation
 
 
 
