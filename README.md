@@ -1,4 +1,5 @@
-# classification_learning_SSE_XRD
+# Physics-Informed Framework to Discover Superionic Conductors
+<img width="1071" height="333" alt="Screen Shot 2026-05-07 at 22 58 53" src="https://github.com/user-attachments/assets/6b4a3265-2566-496b-9af8-33c6b9070ed5" />
 Physics-Informed Machine Learning from Limited XRD Data for Discovery of Room-Temperature Superionic Conductors
 
 ## Overview
