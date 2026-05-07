@@ -21,17 +21,12 @@ The project requires two CSV files:
 - `y_data_kind.csv`: Contains target labels (material kinds)
 
 
-class/
-
-├── main.py                                   # Main execution script
-
-├── cleaned_x_data_XRDa_featuresNoise.csv     # Feature dataset
-
-├── y_data_kind.csv                           # Target labels
-
-├── requirements.txt                          # Python dependencies
-
-└── README.md                                  # Project documentation
+class
+├── main.py                                   
+├── cleaned_x_data_XRDa_featuresNoise.csv     
+├── y_data_kind.csv                          
+├── requirements.txt                          
+└── README.md                                 
 
 
 
